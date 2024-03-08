@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42dca640-d299-4009-8533-01d175af4c0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brancaccio75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chua75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/eire75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sampson75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sampson_dinosaur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sorkin75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/town_hall_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tynan75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speakers/brancaccio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speakers/chua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speakers/sorkin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/c3_content.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dMzD4jnyeuJGoEkDalocTblKAv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Shahriar Topu/WebstormProjects/A05/speakers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shahriar Topu\WebstormProjects\A05\speakers" />
+      <recent name="C:\Users\Shahriar Topu\WebstormProjects\A05" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42dca640-d299-4009-8533-01d175af4c0f" name="Changes" comment="" />
+      <created>1709832612728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709832612728</updated>
+      <workItem from="1709832613797" duration="11000" />
+      <workItem from="1709832637391" duration="208000" />
+      <workItem from="1709832864624" duration="3000" />
+      <workItem from="1709832880358" duration="31000" />
+      <workItem from="1709832916570" duration="2743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
